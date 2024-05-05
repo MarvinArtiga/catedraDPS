@@ -30,7 +30,6 @@ Los contribuidores de este proyecto somos los estudnaintes de la Universidad Don
 * Pablo Dagoberto Aguilar Montano AM230283
 * Waldo Jose Perez Aguillon PA230265
 * Bryan Manuel Gonzalez Villalta GV230511
-* Melvin Alexander Ingles Guzman IG220972
 
 
 
