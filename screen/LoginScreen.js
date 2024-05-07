@@ -68,9 +68,9 @@ export function LoginScreen (){
             <TouchableOpacity onPress={handleSignIn} style={[styles.button, {backgroundColor:'#EA9E21',}]}>
               <Text style={styles.buttonText}>Login</Text>
             </TouchableOpacity>
-            {/* <TouchableOpacity onPress={handleCreateAccount} style={[styles.button, {backgroundColor:'#EA9E21',}]}>
+            <TouchableOpacity onPress={handleCreateAccount} style={[styles.button, {backgroundColor:'blue',}]}>
               <Text style={styles.buttonText}>Create Account</Text>
-            </TouchableOpacity> */}
+            </TouchableOpacity>
           </View>
         </BlurView>
       </ScrollView>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-export function ProfesoresInicio  ({ navigation })  {
+export function Home  ({ navigation })  {
     const renderTableCell = (content) => (
         <View style={styles.cell}>
             <Text style={styles.cellText}>{content}</Text>
@@ -63,11 +63,11 @@ export function ProfesoresInicio  ({ navigation })  {
             </View>
             {/* Botón de "Estudiantes" */}
             <TouchableOpacity
-                style={[styles.button, styles.border]}
-                onPress={() => navigation.navigate('PantallaEstudiantes')}
-            >
-                <Text style={styles.buttonText}>Estudiantes</Text>
-            </TouchableOpacity>
+    style={[styles.button, styles.border]}
+    onPress={() => navigation.navigate('Alumnos')}
+>
+    <Text style={styles.buttonText}>Ver Estudiante</Text>
+</TouchableOpacity>
             <View style={[styles.scheduleTable, styles.border]}>
                 <View style={[styles.row, styles.dayRow]}>
                     {renderTableCell('Hora')}
