@@ -7,6 +7,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { useNavigation } from "@react-navigation/native";
 import { LoginScreen } from "./screen/LoginScreen";
+// import { AddStudentScreen } from "./screen/addStudentScreen";
 
 
 
