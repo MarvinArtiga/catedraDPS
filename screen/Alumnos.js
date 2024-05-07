@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 const uri = 'https://w0.peakpx.com/wallpaper/141/881/HD-wallpaper-blue-background-gradient-thumbnail.jpg';
 const profilePicture = 'https://png.pngtree.com/png-clipart/20211017/original/pngtree-logo-school-with-book-and-star-png-image_6855379.png';
 
-const Alumnos = () => {
+export function Alumnos  () {
   return (
     <View style={styles.container}>
         <Image source={{ uri }} style={[styles.image, StyleSheet.absoluteFill]}/>
@@ -80,4 +80,3 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Alumnos;
