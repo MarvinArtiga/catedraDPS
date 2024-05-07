@@ -13,7 +13,7 @@ El proposito de este proyecto es facilitar la matricula del estudiantes, que pue
 ### Link de firebase
 `<link>` : https://console.firebase.google.com/u/0/project/blurrlogin/settings/iam
 
-### Manuales de usuario (Links a canva ) 
+### Manuales  (Links a canva ) 
   ### Manual Tecnico
 `<link>` : https://www.canva.com/design/DAGEfisZlmc/IFcq9aVStyyVdr6qurmQXw/view?utm_content=DAGEfisZlmc&utm_campaign=designshare&utm_medium=link&utm_source=editor
   ### Manual de Usuario
