@@ -34,7 +34,7 @@ La aplicacion de este portal Web contendra 2 roles, el primero sera el ro de mae
 El segundo rol, es el de estudiante, el cal podra visuaizar su perfil de estudiante, ver sus notas, y al igual que el maestro, sera capaz de visualizar su horario de clases
 
 ### Créditos
-Los contribuidores de este proyecto somos los estudnaintes de la Universidad Don Bosco:
+Los contribuidores de este proyecto somos los estudiantes de la Universidad Don Bosco:
 * Marvin Edgardo Artiga Gonzalez AG230133
 * Pablo Dagoberto Aguilar Montano AM230283
 * Waldo Jose Perez Aguillon PA230265
